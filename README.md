@@ -1,7 +1,4 @@
-# openbox
-jumping from the full desktop environment 
-onto the standalone window manager to keep off
-the bloat
+## NOT SO FRIENDLY WM
 
-initial basic commit of openbox menu 
-
+- Initial basic commit of openbox menu 
+- Added fancy-bash
